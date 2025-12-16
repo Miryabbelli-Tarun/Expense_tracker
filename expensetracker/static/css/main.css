@@ -211,3 +211,7 @@ input[type="number"] {
 .notification-container p {
   margin: 0;
 }
+#box-alert{
+  color: red;
+  background-color: lightcoral;
+}
